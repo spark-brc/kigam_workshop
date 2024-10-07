@@ -67,17 +67,23 @@ Session content and schedule
   - Visualize and analyze hydrology outputs
   - Visualize and analyze water quality outputs
   - SWAT-MODFLOW scenarios and additional QSWATMOD functions
+
     - Irrigation pumping
+
   - SWAT-MODFLOW model evaluation
   - Q&A Session (30 mins)
+
 - Day 3 - Third Session - Optimization Framework
+
   - Anaconda & swatmf python package Installations
   - Introduction to Jupyter notebook and Python language (skipped if not necessary)
   - Introduction to Uncertainty analysis (Bayes’ theorem) and Parameter ESTimation utility (PEST)
   - Construct PEST interface
+
     - pre-processing (template files)
     - post-processing (instruction files)
     - control file
+
 - Run PEST & parallel processing
 - Analyze results
 - Q&A Session
