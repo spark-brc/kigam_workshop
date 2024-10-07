@@ -94,6 +94,7 @@ Session content and schedule
 
 
 .. _installation-label:
+
 swatmf
 ======
 
