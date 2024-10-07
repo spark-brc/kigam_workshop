@@ -7,14 +7,67 @@ Integrated Hydrological Modeling Practices and Uncertainty Analysis Curriculum
 | July 24-26, 2024
 
 
+Overview
+========
+This workshop aims to provide a better understanding of the principles of hydrologic cycle and water budgets and to teach the fundamental principle and structure of a widely used integrated hydrologic model, SWAT-MODFLOW, with hands-on exercises for use in assessing spatio-temporal patterns of water resources and fluxes. It will also cover general procedures of model development, implementation, evaluation, and optimization.
 
+Course Objectives
+=================
+Upon successful completion of this workshop, students will be able to (1) understand the fundamental principles of each model (SWAT, MODFLOW, and SWAT-MODFLOW); (2) construct a SWAT-MODFLOW model; (3) perform a simulation with various configurations; (4) evaluate and visualize simulation results; and (5) perform model optimization. Students will learn to work with a graphical user interface, QSWATMOD, and an automatic optimization framework with Jupyter notebooks.
 
+Course Preparation
+==================
+Please bring a laptop running Windows OS (higher than Windows 10, preferably) to use for the workshop exercises. You will be contacted by the instructor with files to download prior to the course.
+- Pre-requisites (nice to have; not required):
+  - Basic understanding of Python
+  - Basic understanding of Jupyter Notebook 
+  - Basic understanding of SWAT and MODFLOW
+- Introductions:
+  - The mathematics and theory
+  - Learning by doing
+  - Please speak up! Everyone learns from discussion
+  - Work in pairs
+  - Python, GUIs, and all that
 
-
-
-
-
-
+Session content and schedule
+============================
+- Day 1 - First Session – Integrated hydrologic model
+  - Introduction to Hydrogeology
+  - Hydrologic cycle and water budgets
+  - Introduction to SWAT-MODFLOW-RT3D
+    - Background & Case studies
+    - SWAT
+    - MODFLOW & RT3D
+    - SWAT-MODFLOW-RT3D linking process 
+  - Setting up simulation
+    - Set up, run, view 
+  - QGIS & QSWAT & QSWATMOD installations (if necessary)
+  - Q&A session
+- Day 2 - Second Session – QSWAT and QSWATMOD
+  - Create SWAT model with QSWAT
+  - Exercise with QSWATMOD (5 hours)
+    - Description of QSWATMOD
+    - Create a MODFLOW model
+    - Create an RT3D model
+  - Link 3 different models
+  - Set up the configuration of the model simulation and run the model
+  - Visualize and analyze hydrology outputs
+  - Visualize and analyze water quality outputs
+  - SWAT-MODFLOW scenarios and additional QSWATMOD functions
+    - Irrigation pumping
+  - SWAT-MODFLOW model evaluation
+  - Q&A Session (30 mins)
+- Day 3 - Third Session - Optimization Framework
+  - Anaconda & swatmf python package Installations
+  - Introduction to Jupyter notebook and Python language (skipped if not necessary)
+  - Introduction to Uncertainty analysis (Bayes’ theorem) and Parameter ESTimation utility (PEST)
+  - Construct PEST interface
+    - pre-processing (template files)
+    - post-processing (instruction files)
+    - control file
+- Run PEST & parallel processing
+- Analyze results
+- Q&A Session
 
 
 
