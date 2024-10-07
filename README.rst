@@ -1,4 +1,27 @@
-======
+==============================================================================
+Integrated Hydrological Modeling Practices and Uncertainty Analysis Curriculum
+==============================================================================
+
+| Seonggyu Park
+| Texas A&M AgriLife Research
+| July 24-26, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 swatmf
 ======
 
@@ -15,7 +38,6 @@ swatmf
 
 `swatmf` is a set of python modules for SWAT-MODFLOW model (Bailey et al., 2016) parameter estimation and uncertainty analysis with the open-source suite PEST (Doherty 2010a and 2010b, and Doherty and other, 2010).
 
-===========================================
 Uncertainty Analysis for SWAT-MODFLOW model
 ===========================================
 
@@ -51,7 +73,6 @@ Hard way (Dev mode)
    git clone https://github.com/spark-brc/swatmf_wf.git
 
 
-============
 Installation
 ============
 
