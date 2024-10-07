@@ -22,6 +22,7 @@ Please bring a laptop running Windows OS (higher than Windows 10, preferably) to
   - Basic understanding of Python
   - Basic understanding of Jupyter Notebook 
   - Basic understanding of SWAT and MODFLOW
+
 - Introductions:
   - The mathematics and theory
   - Learning by doing
