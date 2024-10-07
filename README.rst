@@ -75,7 +75,7 @@ Session content and schedule
 
 - Day 3 - Third Session - Optimization Framework
 
-  - Anaconda & swatmf python package Installations and see :ref:`swatmf`_.
+  - Anaconda & swatmf python package Installations and see See `here <#swatmf>`_
 
   - Introduction to Jupyter notebook and Python language (skipped if not necessary)
   - Introduction to Uncertainty analysis (Bayes’ theorem) and Parameter ESTimation utility (PEST)
