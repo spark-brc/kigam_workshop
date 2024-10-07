@@ -20,6 +20,7 @@ Course Preparation
 Please bring a laptop running Windows OS (higher than Windows 10, preferably) to use for the workshop exercises. You will be contacted by the instructor with files to download prior to the course.
 
 * Pre-requisites (nice to have; not required):
+
   * Basic understanding of Python
   * Basic understanding of Jupyter Notebook 
   * Basic understanding of SWAT and MODFLOW
