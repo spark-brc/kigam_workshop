@@ -26,6 +26,7 @@ Please bring a laptop running Windows OS (higher than Windows 10, preferably) to
   * Basic understanding of SWAT and MODFLOW
 
 * Introductions:
+
   * The mathematics and theory
   * Learning by doing
   * Please speak up! Everyone learns from discussion
@@ -35,23 +36,32 @@ Please bring a laptop running Windows OS (higher than Windows 10, preferably) to
 Session content and schedule
 ============================
 * Day 1 - First Session – Integrated hydrologic model
+
   * Introduction to Hydrogeology
   * Hydrologic cycle and water budgets
   * Introduction to SWAT-MODFLOW-RT3D
+
     * Background & Case studies
     * SWAT
     * MODFLOW & RT3D
     * SWAT-MODFLOW-RT3D linking process 
+
   * Setting up simulation
+
     * Set up, run, view 
+
   * QGIS & QSWAT & QSWATMOD installations (if necessary)
   * Q&A session
+
 * Day 2 - Second Session – QSWAT and QSWATMOD
+
   * Create SWAT model with QSWAT
   * Exercise with QSWATMOD (5 hours)
+
     - Description of QSWATMOD
     - Create a MODFLOW model
     - Create an RT3D model
+
   - Link 3 different models
   - Set up the configuration of the model simulation and run the model
   - Visualize and analyze hydrology outputs
